@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER-PC\\source\\repos\\Music App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|c:\\users\\user-pc\\source\\repos\\music app\\music app\\albumsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|solutionrelative:music app\\albumsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|C:\\Users\\USER-PC\\source\\repos\\Music App\\music app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|solutionrelative:music app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|C:\\Users\\USER-PC\\source\\repos\\Music App\\music app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|solutionrelative:music app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|C:\\Users\\USER-PC\\source\\repos\\Music App\\music app\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|solutionrelative:music app\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|C:\\Users\\USER-PC\\source\\repos\\Music App\\music app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|solutionrelative:music app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|C:\\Users\\USER-PC\\source\\repos\\Music App\\music app\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E683CB50-02A6-4474-9B9F-936CFFCBBA3A}|Music App\\Music App.csproj|solutionrelative:music app\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Form1.cs",
+              "RelativeDocumentMoniker": "Music App\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Form1.cs [Design]",
+              "RelativeToolTip": "Music App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:09:05.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Music App\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Form1.Designer.cs",
+              "RelativeToolTip": "Music App\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:41:28.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Track.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Track.cs",
+              "RelativeDocumentMoniker": "Music App\\Track.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Track.cs",
+              "RelativeToolTip": "Music App\\Track.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:19:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Form1.cs",
+              "RelativeDocumentMoniker": "Music App\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Form1.cs",
+              "RelativeToolTip": "Music App\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:02:49.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlbumsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\AlbumsDAO.cs",
+              "RelativeDocumentMoniker": "Music App\\AlbumsDAO.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\AlbumsDAO.cs",
+              "RelativeToolTip": "Music App\\AlbumsDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:59:57.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Class1.cs",
+              "RelativeDocumentMoniker": "Music App\\Class1.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\Music App\\Music App\\Class1.cs",
+              "RelativeToolTip": "Music App\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:54:46.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
