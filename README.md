@@ -2,17 +2,17 @@
 The Music App is a simple desktop application built using C# and Windows Forms. It allows users to manage albums and tracks, including searching albums by title, adding new albums, deleting tracks, and viewing track details.
 
 ## Features
-*View a list of albums with their details such as album name, artist name, year of release, and album cover image.
-*Search albums by title using a search box.
-*Click on an album to view its details and tracks.
-*Add new albums to the database.
-*Delete tracks from the database.
-*View track details including the video URL.
+* View a list of albums with their details such as album name, artist name, year of release, and album cover image.
+* Search albums by title using a search box.
+* Click on an album to view its details and tracks.
+* Add new albums to the database.
+* Delete tracks from the database.
+* View track details including the video URL.
 ## Technologies Used
-*C# programming language
-*Windows Forms for building the user interface
-*MySQL database for storing albums and tracks information
-*Microsoft.Web.WebView2.Core and Microsoft.Web.WebView2.WinForms for displaying web content (videos)
+* C# programming language
+* Windows Forms for building the user interface
+* MySQL database for storing albums and tracks information
+* Microsoft.Web.WebView2.Core and Microsoft.Web.WebView2.WinForms for displaying web content (videos)
 ## Getting Started
 To run the Music App locally, follow these steps:
 
