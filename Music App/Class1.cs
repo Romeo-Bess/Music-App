@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,15 +8,13 @@ namespace Music_App
 {
     internal class Album
     {
-        public int ID { get; set;  }
-        public String AlbumName { get; set; }
-        public String ArtistName { get; set; }
-        public int Year { get; set; }
-        public String ImageURL { get; set; }
-        public String Description { get; set; }
-        public List<Track> Tracks { get; internal set; }
-
-        //later make a list of List<Track> songs
-
+        // Properties of the Album class
+        public int ID { get; set; }             // Unique identifier for the album
+        public String AlbumName { get; set; }   // Name of the album
+        public String ArtistName { get; set; }  // Name of the artist
+        public int Year { get; set; }           // Year of release
+        public String ImageURL { get; set; }    // URL of the album cover image
+        public String Description { get; set; } // Description of the album
+        public List<Track> Tracks { get; internal set; } // List of tracks in the album
     }
 }
